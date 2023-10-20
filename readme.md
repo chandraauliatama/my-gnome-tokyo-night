@@ -63,7 +63,7 @@ git clone https://github.com/chandraauliatama/my-gnome-tokyo-night.git Tokyonigh
 ```
 cp ~/themes/Tokyonight-Dark-B/gtk-4.0/gtk.css ~/.config/gtk-4.0/
 ```
-3. Make any necessary color definitions for proper Libadwaita compatibility. The list of every defined color can be found (here)[https://gitlab.gnome.org/GNOME/libadwaita/-/blob/main/src/stylesheet/_defaults.scss], with more info (here)[https://gnome.pages.gitlab.gnome.org/libadwaita/doc/1.1/named-colors.html]
+3. Make any necessary color definitions for proper Libadwaita compatibility. The list of every defined color can be found [here](https://gitlab.gnome.org/GNOME/libadwaita/-/blob/main/src/stylesheet/_defaults.scss), with more info [here](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/1.1/named-colors.html)
 
 ## Give Flatpak Permission to use GTK4
 1. local: 
@@ -78,10 +78,10 @@ flatpak override --filesystem=xdg-config/gtk-4.0
 ```
 
 ## Gnome Extension Actived
-1. (Blur My Shells)[https://extensions.gnome.org/extension/3193/blur-my-shell/]
+1. [Blur My Shells](https://extensions.gnome.org/extension/3193/blur-my-shell/)
     - Turn off panel blur option
-2. (User Themes)[https://extensions.gnome.org/extension/19/user-themes/]
-3. (Pano Clipboard Manager)[https://extensions.gnome.org/extension/5278/pano/]
+2. [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
+3. [Pano Clipboard Manager](https://extensions.gnome.org/extension/5278/pano/)
 4. Cosmic Dock
 5. Cosmic x11 Gestures
 6. Pop Shell
@@ -90,7 +90,4 @@ flatpak override --filesystem=xdg-config/gtk-4.0
 
 
 ### Extra(Useful Links)
-1. (GTK 4 compatibility and flatpak info reddit)[https://www.reddit.com/r/unixporn/comments/ts0dj2/gnome_and_they_said_theming_is_dead/]
-
-
-
+1. [GTK 4 compatibility and flatpak info reddit](https://www.reddit.com/r/unixporn/comments/ts0dj2/gnome_and_they_said_theming_is_dead/)
