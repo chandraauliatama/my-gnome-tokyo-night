@@ -46,7 +46,11 @@ Memory: 4349MiB / 15214MiB
 ```
 sudo apt install gnome-tweaks
 ```
-2. Clone repository ini
+2. Pastikan berada di themes directory yang benar
+```
+cd ~/.themes
+```
+3. Clone repository ini
 ```
 git clone git@github.com:chandraauliatama/my-gnome-tokyo-night.git Tokyonight-Dark-B
 ```
@@ -54,7 +58,7 @@ atau
 ```
 git clone https://github.com/chandraauliatama/my-gnome-tokyo-night.git Tokyonight-Dark-B
 ```
-3. Buka aplikasi Tweaks dan set theme dan shells ke "Tokyonight-Dark-B"
+4. Buka aplikasi Tweaks dan set theme dan shells ke "Tokyonight-Dark-B"
 
 ## GTK 4 compatibilty
 1. Take a GTK theme with GTK 4 compatibility
@@ -91,3 +95,5 @@ flatpak override --filesystem=xdg-config/gtk-4.0
 
 ### Extra(Useful Links)
 1. [GTK 4 compatibility and flatpak info reddit](https://www.reddit.com/r/unixporn/comments/ts0dj2/gnome_and_they_said_theming_is_dead/)
+2. [Tokyo Night Icon](https://www.gnome-look.org/p/1681475)
+3. [Tokyo Night Theme](https://www.gnome-look.org/p/1681315)
