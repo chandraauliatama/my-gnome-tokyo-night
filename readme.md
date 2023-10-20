@@ -1,28 +1,44 @@
 # Specific Tokyo Night Theme For My PopOs
 
+![image](https://github.com/chandraauliatama/my-gnome-tokyo-night/assets/64741857/036f7c06-d03b-4302-abca-7589ca0023e0)
 ![image](https://github.com/chandraauliatama/my-gnome-tokyo-night/assets/64741857/f99da353-79d8-4117-b17d-1e00dc8adf18)
 
 ## Information
 
 chandraat@pop-os 
+
 OS: Pop!_OS 22.04 LTS x86_64 
+
 Host: 1701 Version 1.0 
+
 Kernel: 6.5.4-76060504-generic 
+
 Uptime: 3 hours, 9 mins 
+
 Packages: 2027 (dpkg) 
+
 Shell: zsh 5.8.1 
+
 Resolutionesolution: 1920x1200 
+
 DE: GNOME 42.5 
+
 WM: Mutter 
+
 WM Theme: Pop 
+
 Theme: Tokyonight-Dark-B [GTK2/3] 
+
 Icons: Tokyonight-Dark [GTK2/3] 
+
 Terminal: x-terminal-emul 
+
 CPU: AMD Ryzen 5 6600H with Radeon Graphics (12) @ 4.564GHz 
+
 GPU: AMD ATI 03:00.0 Rembrandt 
+
 Memory: 4349MiB / 15214MiB 
 
-![image](https://github.com/chandraauliatama/my-gnome-tokyo-night/assets/64741857/036f7c06-d03b-4302-abca-7589ca0023e0)
 
 
 ## Langkah Pemasangan
